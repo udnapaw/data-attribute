@@ -4,5 +4,5 @@ This is tutorial for myself about Vue JS that i learn from Hafid Mukhlasin E-Boo
 
 # Data Attribute
 
-How to define and use data in Vue JS
+How to define and use data attribute in Vue JS
  
